@@ -1,0 +1,1 @@
+This is just a prototype of a website about paints.
